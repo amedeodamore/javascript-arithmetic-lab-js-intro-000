@@ -34,6 +34,6 @@ function increment(n){
 return n += 1
 }
 
-function degrement(n){
+function decrement(n){
 return n -= 1
 }

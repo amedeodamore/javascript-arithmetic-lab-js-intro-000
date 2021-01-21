@@ -31,5 +31,5 @@ return a / b
 }
 
 function increment(n){
-return n += n
+return number += n
 }
